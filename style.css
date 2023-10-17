@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+.container {
+  margin-top: 3rem;
+}
+
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.m-h {
+  min-height: 100vh;
+}
+.row {
+  width: 20vw;
+  margin: 0 auto;
+}
+
+.col {
+  padding: 0.4rem;
+  border-radius: 0.4rem;
+}
+
+
